@@ -1,10 +1,9 @@
 # Project 1: Boolean Logic
 
-<p>Project 1 focuses on the construction of basic logic gates using a Hardware Description Language (HDL). This project aims to develop a foundational understanding of digital logic design by building from the most basic gate, the NAND gate, to more complex gates such as Multiplexers. </p>
+Project 1 focuses on the construction of basic logic gates using a Hardware Description Language (HDL). This project aims to develop a foundational understanding of digital logic design by building from the most basic gate, the NAND gate, to more complex gates such as Multiplexers.
 
 
-## Gates Implemented
-
+## Summary
 - **Not Gate:** Outputs the negation of its input.
   
 - **And Gate:** Outputs true only if all its inputs are true.

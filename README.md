@@ -1,6 +1,6 @@
 # Nand2Tetris
 
-<p>Nand2Tetris, also known as "The Elements of Computing Systems," is an educational project that takes you on a comprehensive journey through computer science and engineering. It begins with constructing basic logic gates from NAND gates and culminates in building a fully functional computer and operating system capable of running games, compilers, and even a web server. </p>
+Nand2Tetris, also known as "The Elements of Computing Systems," is an educational project that takes you on a comprehensive journey through computer science and engineering. It begins with constructing basic logic gates from NAND gates and culminates in building a fully functional computer and operating system capable of running games, compilers, and even a web server.
 
 
 
