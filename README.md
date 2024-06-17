@@ -6,17 +6,17 @@
 
 ## Projects
 ### Hardware layer
-- [Project 1 Boolean Logic](https://github.com/Ze-hs/Nand2Tetris/tree/main/Project%201)
+- Project 1: [Boolean Logic](https://github.com/Ze-hs/Nand2Tetris/tree/main/Project%201)
 
-- [Project 2 Boolean Arithmetic](https://github.com/Ze-hs/Nand2Tetris/tree/main/Project%202)
+- Project 2: [Boolean Arithmetic](https://github.com/Ze-hs/Nand2Tetris/tree/main/Project%202)
    
-- [Project 3 Memory](https://github.com/Ze-hs/Nand2Tetris/tree/main/Project%203)
+- Project 3: [Memory](https://github.com/Ze-hs/Nand2Tetris/tree/main/Project%203)
    
-- [Project 4 Machine Language](https://github.com/Ze-hs/Nand2Tetris/tree/main/Project%204)
+- Project 4: [Machine Language](https://github.com/Ze-hs/Nand2Tetris/tree/main/Project%204)
    
-- [Project 5 Computer Architecture](https://github.com/Ze-hs/Nand2Tetris/tree/main/Project%205)
+- Project 5: [Computer Architecture](https://github.com/Ze-hs/Nand2Tetris/tree/main/Project%205)
    
-- [Project 6 Assembler](https://github.com/Ze-hs/Nand2Tetris/tree/main/Project%206)
+- Project 6: [Assembler](https://github.com/Ze-hs/Nand2Tetris/tree/main/Project%206)
 
 
 
